@@ -3,10 +3,9 @@
 ## Created By: Julio Hernandez & Shannon Lichtenwalter
 
 ### Links 
-See it Live: https://spaced-repetition-julio-shannon-client.now.sh/
-Client Repo: https://github.com/thinkful-ei-heron/spaced-repetition-Julio-Shannon-client
-Server Repo: https://github.com/thinkful-ei-heron/spaced-repetition-Julio-Shannon-server
-
+See it Live: https://spaced-repetition-capstone-project.now.sh
+Client Repo: https://github.com/shannon-lichtenwalter/spaced-repetition-client
+Server Repo: https://github.com/shannon-lichtenwalter/spaced-repetition-server
 
 ### Introduction
 
